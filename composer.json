@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "": "src/"
+            "Klarna\\Rest\\": "src/"
         }
     },
     "minimum-stability": "stable",
